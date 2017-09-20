@@ -11,6 +11,7 @@ This is the code for [this](https://youtu.be/URWXG5jRB-A) video on on Youtube by
 - baselines (OpenAI) [https://github.com/openai/baselines]
 - s2client-proto (Blizzard) [https://github.com/Blizzard/s2client-proto]
 - Tensorflow 1.3 (Google) [https://github.com/tensorflow/tensorflow]
+- Python 3 or higher
 
 ## Usage
 
